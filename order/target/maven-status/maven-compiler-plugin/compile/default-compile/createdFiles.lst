@@ -1,0 +1,14 @@
+com/microservices/microservice/order/logic/SpringRestDataConfig$1.class
+com/microservices/microservice/order/logic/OrderController.class
+com/microservices/microservice/order/clients/CatalogClient$ItemPagedResources.class
+com/microservices/microservice/order/clients/CatalogClient.class
+com/microservices/microservice/order/logic/SpringRestDataConfig.class
+com/microservices/microservice/order/logic/OrderRepository.class
+com/microservices/microservice/order/clients/CustomerClient.class
+com/microservices/microservice/order/logic/OrderLine.class
+com/microservices/microservice/order/OrderApp.class
+com/microservices/microservice/order/clients/Customer.class
+com/microservices/microservice/order/clients/Item.class
+com/microservices/microservice/order/clients/CustomerClient$CustomerPagedResources.class
+com/microservices/microservice/order/logic/Order.class
+com/microservices/microservice/order/logic/OrderService.class
